@@ -1,0 +1,67 @@
+.transaction-detail-item {
+  color: #fff;
+  padding: 20px 0;
+  border-bottom: 1px solid var(--ui-3);
+
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    grid-gap: 5px;
+    color: #fff;
+
+    &-subText {
+      display: flex;
+      align-items: center;
+      color: var(--Grey-500);
+
+      .currency-display-component {
+        margin-left: 4px;
+      }
+    }
+    h6 {
+      color: #fff;
+    }
+  }
+
+  &__detail-values {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    width: 52%;
+    color: #fff;
+
+    &--flex-width {
+      width: auto;
+    }
+  }
+
+  .info-tooltip {
+    display: inline-block;
+    margin-inline-start: 4px;
+
+    path {
+      fill: var(--ui-3);
+    }
+  }
+
+  .currency-display-component {
+    display: inline;
+  }
+
+  &:first-of-type {
+    padding-top: 0;
+  }
+
+  &:last-of-type {
+    margin-bottom: 20px;
+  }
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    padding-bottom: 0;
+    border-bottom: 0;
+  }
+}

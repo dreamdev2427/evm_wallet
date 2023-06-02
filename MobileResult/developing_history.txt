@@ -1,0 +1,11 @@
+#202206170014
+    show ERC721 tokens and do swap on our smart contracts
+    commit of source 6124f16e740fb9c27b1f7cbce72162b1117fa741
+    
+#202206201537
+    three networks integrated , can send and swap erc20, send erc721 
+    commit of source 8f3654916e069a2dcf60da0ac694040b48ac8fd5
+
+#202207181523
+    build mobile source on xcode and tested on iOS11 phone
+    commit of source bf6318def4fd94f32727940a1ba8ebb9b9849d39

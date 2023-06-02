@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-trade-vertical">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="trade-vertical" clip-path="url(#clip-trade-vertical)">
+    <g id="Group_2769" data-name="Group 2769" transform="translate(3 2.567)">
+      <path id="Line_143" data-name="Line 143" d="M5.122.75H0A.75.75,0,0,1-.75,0,.75.75,0,0,1,0-.75H5.122a.75.75,0,0,1,.75.75A.75.75,0,0,1,5.122.75Z" transform="translate(6.756 8.336)" fill="#fff"/>
+      <g id="Group_2803" data-name="Group 2803" transform="translate(2 2.433)">
+        <g id="Group_2805" data-name="Group 2805">
+          <path id="Path_1364" data-name="Path 1364" d="M12.241,17.183h0a1.475,1.475,0,0,1-.819-.25L8.358,14.89h-2.7a4.381,4.381,0,0,1-3.183-1.226A4.381,4.381,0,0,1,1.25,10.482V6.092A4.381,4.381,0,0,1,2.476,2.909,4.381,4.381,0,0,1,5.659,1.683h7.317a4.381,4.381,0,0,1,3.183,1.226,4.381,4.381,0,0,1,1.226,3.183v4.39a4.381,4.381,0,0,1-1.226,3.183,4.2,4.2,0,0,1-2.433,1.175v.86a1.466,1.466,0,0,1-.457,1.071A1.483,1.483,0,0,1,12.241,17.183Zm-6.583-14A2.7,2.7,0,0,0,2.75,6.092v4.39A2.7,2.7,0,0,0,5.659,13.39H8.585A.75.75,0,0,1,9,13.516l3.224,2.15V14.14a.75.75,0,0,1,.75-.75,2.7,2.7,0,0,0,2.909-2.909V6.092a2.7,2.7,0,0,0-2.909-2.909Z" transform="translate(-2 -2.433)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

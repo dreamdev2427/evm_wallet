@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-warning">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="warning" clip-path="url(#clip-warning)">
+    <g id="Group_2685" data-name="Group 2685" transform="translate(2.25 1.411)">
+      <path id="Line_152" data-name="Line 152" d="M0,4.75A.75.75,0,0,1-.75,4V0A.75.75,0,0,1,0-.75.75.75,0,0,1,.75,0V4A.75.75,0,0,1,0,4.75Z" transform="translate(9.75 7.718)" fill="#fff"/>
+      <path id="Line_153" data-name="Line 153" transform="translate(9.75 14.118)" fill="#fff"/>
+      <path id="Path_1345" data-name="Path 1345" d="M205.6,17.09H195.9a3.813,3.813,0,0,1-3.49-1.664,3.8,3.8,0,0,1,.242-3.842L197.5,2.893a3.443,3.443,0,0,1,6.5,0l4.846,8.691a3.8,3.8,0,0,1,.242,3.842A3.813,3.813,0,0,1,205.6,17.09Zm-4.847-15c-.688,0-1.4.559-1.939,1.534l-4.846,8.691a2.389,2.389,0,0,0-.259,2.351,2.408,2.408,0,0,0,2.2.924H205.6a2.408,2.408,0,0,0,2.2-.924,2.389,2.389,0,0,0-.259-2.351l-4.846-8.691C202.145,2.649,201.439,2.09,200.75,2.09Z" transform="translate(-191 1.25)" fill="#fff"/>
+      <circle id="Ellipse_246" data-name="Ellipse 246" cx="1" cy="1" r="1" transform="translate(8.75 13.589)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

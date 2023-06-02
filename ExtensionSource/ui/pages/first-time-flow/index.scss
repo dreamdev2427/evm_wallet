@@ -1,0 +1,136 @@
+@import 'welcome/index';
+@import 'select-action/index';
+@import 'seed-phrase/index';
+@import 'end-of-flow/index';
+@import 'metametrics-opt-in/index';
+
+
+.first-time-flow {
+  width: 100%;
+  background-color: #0b1221;
+  display: flex;
+  justify-content: center;
+
+  &__wrapper {
+    @media screen and (min-width: $break-large) {
+      max-width: 742px;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      margin-top: 2%;
+    }
+
+    .app-header__metafox-logo {
+      margin-bottom: 40px;
+
+      @media screen and (max-width: $break-small) {
+        margin-bottom: 0;
+      }
+    }
+
+    .app-header__logo-container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      flex: 0 0 auto;
+      margin-right: 1rem;
+      justify-content: space-between;
+    }
+  }
+
+  &__import,
+  &__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__create-back {
+    margin-bottom: 16px;
+  }
+
+  &__header {
+    @include H1;
+
+    margin-bottom: 24px;
+    color: #fff;
+    text-align: center;
+  }
+
+  &__input {
+    max-width: 450px;
+  }
+
+  &__text-block {
+    margin-bottom: 24px;
+    color: #fff;
+    text-align: center;
+
+    @media screen and (max-width: $break-small) {
+      @include H6;
+
+      margin-bottom: 16px;
+    }
+  }
+
+  &__button {
+    margin: 35px 0 14px;
+    max-width: 450px;
+    height: 44px;
+    background: transparent linear-gradient(81deg, #38E3C3 0%, #3D5DFF 48%, #6950DD 100%) 0% 0% no-repeat padding-box;
+  }
+
+  &__checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+  }
+
+  &__checkbox {
+    background: #0b1221;
+    border: 1px solid #cdcdcd;
+    box-sizing: border-box;
+    height: 34px;
+    width: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &:hover {
+      border: 1.5px solid #2f9ae0;
+    }
+
+    .fa-check {
+      color: #2f9ae0;
+    }
+  }
+
+  &__checkbox-label {
+    @include H4;
+
+    color: #bec9e0;
+    margin-left: 18px;
+  }
+
+  &__link-text {
+    color: var(--primary-blue);
+  }
+}
+
+.first-time-flow__wrapper.intro {
+  @media screen and (min-width: $break-large) {
+    max-width: 1010px;
+  }
+
+  @media screen and (max-width: 1010px) {
+    padding: 0 20px;
+  }
+}
+
+#create-password, #confirm-password {
+  color: #fff;
+}
+
+#create-password-label, #confirm-password-label {
+  color: #bec9e0;
+}

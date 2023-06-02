@@ -1,0 +1,22 @@
+.currency-display-component {
+  display: flex;
+  align-items: center;
+
+  &__text {
+    /*rtl:ignore*/
+    color: #ffffff;
+    direction: ltr;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  &__prefix {
+    color: #ffffff;
+  }
+
+  &__suffix {
+    color: #ffffff;
+    padding-left: 4px;
+  }
+}

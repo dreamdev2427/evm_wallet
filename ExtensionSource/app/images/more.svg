@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-more">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="more" clip-path="url(#clip-more)">
+    <g id="Group_2689" data-name="Group 2689" transform="translate(1.302 1.302)">
+      <g id="Group_2687" data-name="Group 2687" transform="translate(2.698 2.698)">
+        <g id="Group_2688" data-name="Group 2688" transform="translate(0 0)">
+          <path id="Rectangle_2015" data-name="Rectangle 2015" d="M6-.75h4A6.758,6.758,0,0,1,16.75,6v4A6.758,6.758,0,0,1,10,16.75H6A6.758,6.758,0,0,1-.75,10V6A6.758,6.758,0,0,1,6-.75Zm4,16A5.256,5.256,0,0,0,15.25,10V6A5.256,5.256,0,0,0,10,.75H6A5.256,5.256,0,0,0,.75,6v4A5.256,5.256,0,0,0,6,15.25Z" fill="#fff"/>
+          <path id="Line_154" data-name="Line 154" d="M0,1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1,1,1,0,0,1,1,0,1,1,0,0,1,0,1Z" transform="translate(7.998 8)" fill="#fff"/>
+          <path id="Line_155" data-name="Line 155" d="M0,1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1,1,1,0,0,1,1,0,1,1,0,0,1,0,1Z" transform="translate(11.198 8)" fill="#fff"/>
+          <path id="Line_156" data-name="Line 156" d="M0,1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1,1,1,0,0,1,1,0,1,1,0,0,1,0,1Z" transform="translate(4.798 8)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

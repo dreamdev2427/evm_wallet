@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-my-qr">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="my-qr" clip-path="url(#clip-my-qr)">
+    <g id="Group_2809" data-name="Group 2809" transform="translate(-271.971 -511.895)">
+      <path id="Rectangle_2238" data-name="Rectangle 2238" d="M1-.75H5A1.752,1.752,0,0,1,6.75,1V5A1.752,1.752,0,0,1,5,6.75H1A1.752,1.752,0,0,1-.75,5V1A1.752,1.752,0,0,1,1-.75Zm4,6A.25.25,0,0,0,5.25,5V1A.25.25,0,0,0,5,.75H1A.25.25,0,0,0,.75,1V5A.25.25,0,0,0,1,5.25Z" transform="translate(275.971 515.895)" fill="#fff"/>
+      <path id="Rectangle_2239" data-name="Rectangle 2239" d="M1-.75H5A1.752,1.752,0,0,1,6.75,1V5A1.752,1.752,0,0,1,5,6.75H1A1.752,1.752,0,0,1-.75,5V1A1.752,1.752,0,0,1,1-.75Zm4,6A.25.25,0,0,0,5.25,5V1A.25.25,0,0,0,5,.75H1A.25.25,0,0,0,.75,1V5A.25.25,0,0,0,1,5.25Z" transform="translate(275.971 525.895)" fill="#fff"/>
+      <path id="Rectangle_2240" data-name="Rectangle 2240" transform="translate(278.971 518.895)" fill="#fff"/>
+      <path id="Rectangle_2242" data-name="Rectangle 2242" transform="translate(278.971 528.895)" fill="#fff"/>
+      <path id="Rectangle_2241" data-name="Rectangle 2241" transform="translate(288.971 518.895)" fill="#fff"/>
+      <g id="Group_2744" data-name="Group 2744" transform="translate(10)">
+        <g id="Group_2743" data-name="Group 2743">
+          <path id="Rectangle_2238-2" data-name="Rectangle 2238" d="M1-.75H5A1.752,1.752,0,0,1,6.75,1V5A1.752,1.752,0,0,1,5,6.75H1A1.752,1.752,0,0,1-.75,5V1A1.752,1.752,0,0,1,1-.75Zm4,6A.25.25,0,0,0,5.25,5V1A.25.25,0,0,0,5,.75H1A.25.25,0,0,0,.75,1V5A.25.25,0,0,0,1,5.25Z" transform="translate(275.971 515.895)" fill="#fff"/>
+        </g>
+      </g>
+      <path id="Path_1354" data-name="Path 1354" d="M2634.94,3323.424h-2.97a.75.75,0,0,1-.75-.75v-5.4h1.5v4.649h1.47v-4.1a.75.75,0,0,1,.75-.75h3.03a.75.75,0,0,1,.75.75v5.452h-1.5v-4.7h-1.53v4.1A.75.75,0,0,1,2634.94,3323.424Z" transform="translate(-2346 -2791.38)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

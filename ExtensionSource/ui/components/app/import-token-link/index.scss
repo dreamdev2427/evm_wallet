@@ -1,0 +1,25 @@
+.import-token-link {
+  & {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+  } 
+  
+  &__link {
+    @include H6;
+    
+    align-items: center;
+    font-size: 0.875rem !important;
+    display: flex !important;
+    color: white !important;
+    border-radius: 5px !important;
+    background-color: #1d2231 !important;
+    padding: 15px 20px !important;
+    width: 42% !important;
+  }
+
+  &__link:hover {
+    color: #ffffff;
+  }
+  
+}

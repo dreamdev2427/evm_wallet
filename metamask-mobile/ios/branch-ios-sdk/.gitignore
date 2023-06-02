@@ -1,0 +1,37 @@
+# Mac
+.DS_Store
+.LSOverride
+
+# Xcode
+[Bb]uild
+*.xcuserstate
+*.xcuserdatad
+# *.xcscmblueprint # We should probably check this in.
+*.o
+
+# merge-repo commit/discard file
+merge-repo-commit
+
+# Pods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build
+carthage-files/*.zip
+carthage-files/Carthage
+
+# Ignore some build products
+Branch-iOS-SDK.zip
+Branch-iOS-TestBed.zip
+Branch.framework.zip
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Ruby stuff
+Gemfile.lock
+

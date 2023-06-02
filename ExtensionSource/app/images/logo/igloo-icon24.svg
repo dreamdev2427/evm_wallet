@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.193" y1="0.944" x2="1" y2="0.153" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffcf"/>
+      <stop offset="0.495" stop-color="#3d5dff"/>
+      <stop offset="1" stop-color="#6950dd"/>
+    </linearGradient>
+    <clipPath id="clip-igloo-icon24">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="igloo-icon24" clip-path="url(#clip-igloo-icon24)">
+    <path id="Path_1354" data-name="Path 1354" d="M11.814,0A12.118,12.118,0,0,0,0,12.182v2.695a8.778,8.778,0,0,0,8.778,8.778h6.444A8.778,8.778,0,0,0,24,14.877V12A12.013,12.013,0,0,0,11.814,0M5.655,14.274v5.139a.3.3,0,0,1-.482.238,5.978,5.978,0,0,1-2.38-4.774V12.171a9.318,9.318,0,0,1,9.23-9.378,9.158,9.158,0,0,1,5.736,2.031.3.3,0,0,1-.275.518,9.135,9.135,0,0,0-2.909-.39,9.385,9.385,0,0,0-8.92,9.322m9.5,6.581c-1.186,0-4.7,0-6.112,0a.6.6,0,0,1-.595-.6V16.189a3.552,3.552,0,0,1,7.1,0v4.267a.4.4,0,0,1-.4.4m6.052-5.978a5.979,5.979,0,0,1-2.38,4.774.3.3,0,0,1-.482-.238V16.189a6.349,6.349,0,0,0-7.669-6.153A.3.3,0,0,1,10.4,9.53,6.357,6.357,0,0,1,14.76,7.742a6.461,6.461,0,0,1,6.447,6.5Z" transform="translate(0 0.172)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
